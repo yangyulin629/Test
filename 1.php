@@ -4,5 +4,6 @@ echo 'c';
 echo '1';
 echo 'a';
 echo 'd';
+echo 'f';
 echo '2';
 echo '3';
