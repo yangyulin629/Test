@@ -5,6 +5,7 @@ echo 'x';
 echo '1';
 echo 'a';
 echo 'z';
+echo 'z';
 echo '2';
 echo 'b';
 echo 'y';
