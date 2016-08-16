@@ -6,7 +6,7 @@ echo 'e';
 echo 'a';
 echo 'i';
 echo 'd';
-echo 'go';
+echo 'gp';
 echo 'f';
 echo 'h';
 echo '2';
